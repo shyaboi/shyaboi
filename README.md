@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on many things
 - 🌱 I’m currently learning all the things
 - 👯 I’m looking to collaborate on https://github.com/shyaboi/openflagsapi
