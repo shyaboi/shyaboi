@@ -7,4 +7,4 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: https://ianss.dev/contact
 - ⚡ Fun fact: Procrastination Hero but couldn't procrastinate procrastination.
-
+- 🔐 Ask me about my secret projects shhhhhhhhhhhhh.
