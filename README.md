@@ -1,4 +1,4 @@
-![Image of Shyaboi](https://i.ibb.co/LNYjL4z/me.png)
+![Image of Shyaboi](https://i.ibb.co/XbXpv05/bffpy.jpg)
 ### Hi there 👋
 
 - 🔭 I’m currently working on APIs and drive bys
