@@ -11,9 +11,9 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on APIs and drive-bys
+- 🔭 What am I up to? APIs and Dockerize!
 - 🌱 I’m working on some JS(Node/React) and Python applications
-- 👯 I’m looking to collaborate on [Open Flags API](https://github.com/shyaboi/openflagsapi) 
 - 💬 Ask me about anything
+- 👯 I’m looking to collaborate on [Open Flags API](https://github.com/shyaboi/openflagsapi) 
 - 📫 How to reach me: [My Website](https://ianss.dev/) 
 - 🔐 Lets work on a secret project together shhhhhhhhhhhhh
