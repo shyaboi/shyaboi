@@ -15,7 +15,7 @@
 
 ### Hi there 👋
 
-- 🔭 What am I up to? APIs and Dockerize!
+- 🔭 What am I up to? APIs and Dockerize 🐳!
 - 🌱 I’m working on some JS(Node/React) and Python applications
 - 💬 Ask me about anything
 - 👯 I’m looking to collaborate on [Open Flags API](https://github.com/shyaboi/openflagsapi) 
