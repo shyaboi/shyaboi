@@ -23,7 +23,7 @@
 - 🔐 Lets work on a secret project together shhhhhhhhhhhhh
 
 # Newest Project:
-# Rad Routes Runner
+# Rad Routes
 
 ![Rad Routes Logo](https://i.ibb.co/y0gF3LF/logo512.png)
 
