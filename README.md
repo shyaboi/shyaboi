@@ -11,7 +11,7 @@
 
 ## [Rad Routes Documentation](http://docs.radroutes.com) [![Netlify Status](https://api.netlify.com/api/v1/badges/f6b2b507-ee14-42a1-a4d8-5e49e16b7ac4/deploy-status)](https://tender-goodall-ad5f05.netlify.app/)
 
-## [Open Flags API](https://openflags.net) <img src="https://img.shields.io/website?url=http%3A%2F%2Fianss.dev">
+<!-- ## [Open Flags API](https://openflags.net) <img src="https://img.shields.io/website?url=http%3A%2F%2Fianss.dev"> -->
 
 <!-- ## [UseLess API](https://uselessapi.com)  <img src="https://img.shields.io/website?url=https%3A%2F%2Fuselessapi.com"> -->
 
