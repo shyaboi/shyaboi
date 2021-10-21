@@ -17,10 +17,9 @@
 
 
 ### Hi there 👋
-
+<!-- - 👯 I’m looking to collaborate on [Open Flags API](https://github.com/shyaboi/openflagsapi) || [Goge](https://github.com/Goge-api) -->
 - 🔭 What am I up to? APIs and Dockerize 🐳!
 - 🌱 I’m working on a Dogecoin lib/API called [Goge](https://github.com/Goge-api)
 - 💬 Ask me about anything
-<!-- - 👯 I’m looking to collaborate on [Open Flags API](https://github.com/shyaboi/openflagsapi) || [Goge](https://github.com/Goge-api) -->
 - 📫 How to reach me: [My Website](https://ianss.dev/) 
 - 🔐 Lets work on a secret project together shhhhhhhhhhhhh
