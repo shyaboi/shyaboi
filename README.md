@@ -19,7 +19,7 @@
 ### Hi there 👋
 <!-- - 👯 I’m looking to collaborate on [Open Flags API](https://github.com/shyaboi/openflagsapi) || [Goge](https://github.com/Goge-api) -->
 - 🔭 What am I up to? APIs and Dockerize 🐳!
-- 🌱 I’m working on a sharing platform called [Relay]([https://github.com/Goge-api](https://relay.busache.com/))
+- 🌱 I’m working on a sharing platform called [Relay]([https://github.com/Goge-api](https://relay.busache.com/)
 - 💬 Ask me about anything
 - 📫 How to reach me: [My Website](https://ianss.dev/) 
 - 🔐 Lets work on a secret project together shhhhhhhhhhhhh
