@@ -8,7 +8,8 @@
 
 ## [RAD Labz](https://radlabz.com/)
 
-## [Open Flags](https://openflags.net/) 🇦🇶
+## [Open Flags](https://openflags.net/) 🏁
+
 
 ## [Rad Routes Documentation](http://docs.radroutes.com) [![Netlify Status](https://api.netlify.com/api/v1/badges/f6b2b507-ee14-42a1-a4d8-5e49e16b7ac4/deploy-status)](https://tender-goodall-ad5f05.netlify.app/)
 
