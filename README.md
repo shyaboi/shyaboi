@@ -10,7 +10,6 @@
 
 ## [Open Flags](https://openflags.net/) 🏁
 
-
 ## [Rad Routes Documentation](http://docs.radroutes.com) [![Netlify Status](https://api.netlify.com/api/v1/badges/f6b2b507-ee14-42a1-a4d8-5e49e16b7ac4/deploy-status)](https://tender-goodall-ad5f05.netlify.app/)
 
 <!-- ## [Open Flags API](https://openflags.net) <img src="https://img.shields.io/website?url=http%3A%2F%2Fianss.dev"> -->
@@ -21,7 +20,7 @@
 ### Hi there 👋
 <!-- - 👯 I’m looking to collaborate on [Open Flags API](https://github.com/shyaboi/openflagsapi) || [Goge](https://github.com/Goge-api) -->
 - 🔭 What am I up to? APIs and Dockerize 🐳!
-- 🌱 I’m working on a sharing platform called [Relay](https://relay.busache.com/)
+- 🌱 I’m working on a sharing platform called [RAD Routes](https://radroutes.com/)
 - 💬 Ask me about anything
 - 📫 How to reach me: [My Website](https://ianss.dev/) 
 - 🔐 Lets work on a secret project together shhhhhhhhhhhhh
