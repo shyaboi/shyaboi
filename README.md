@@ -1,5 +1,6 @@
 # Ian Sears
-## Hi there 👋 I am a Leader and Engineer with fullstack experience, specializing on Front-End
+## Hi there 👋 I am a Leader and Engineer 
+### full-stack, specializing on Front-End
 
 
 
