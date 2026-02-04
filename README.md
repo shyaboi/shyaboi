@@ -5,7 +5,7 @@
 
 ## What am I up to?
 - 🏁 Work with us on: [Open Flags](https://openflags.net/)
-- 🎮 Making a game that makes games in a game with [Vibe-Kode](https://vibe-kode.com/)
+- 🎮 Making a game that makes games in a game with [Vibe-Kode](https://docs.vibe-kode.com/)
 - 💼 Co-Founder [@radlabz](https://radlabz.com/)
 - 💬 Ask me about anything
 - 📫 How to reach me: [My Website](https://ianss.dev/) 
