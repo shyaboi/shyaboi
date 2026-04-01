@@ -4,7 +4,7 @@
 <br/>
 
 ## What am I up to?
-- 💼 Chat with [IanAI](https://client-llm-chat.pages.dev/chat)
+- 💼 Chat with [IanAI](https://ai.ianss.dev/)
 - 🏁 Work with us on: [Open Flags](https://openflags.net/)
 - 🎮 Making a game that makes games in a game with [Vibe-Kode](https://docs.vibe-kode.com/)
 - 📫 How to reach me: [My Website](https://ianss.dev/) 
